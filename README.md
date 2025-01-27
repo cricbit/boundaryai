@@ -1,2 +1,3 @@
-# boundaryapi
-Get cricket Info via RESTful API
+# BoundaryAI
+
+Solve all your cricket queries with BoundaryAI
