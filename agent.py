@@ -65,7 +65,3 @@ register_tools(
         }
     ]
 )
-
-chat_result = user_proxy.initiate_chat(assistant, message="How many runs has DA Warner scored in each Big Bash season?")
-
-print(chat_result)
